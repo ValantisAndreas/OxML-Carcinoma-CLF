@@ -1,4 +1,4 @@
-# Carcinoma Classification - OxML 2023 Cases
+# Carcinoma Classification - OxML 2023 MLx Cases
 
 ## Competition info
 In this competition, the goal was to classify `HES stained histopathological slices` as containing or not containing carcinoma cells. If a carcinoma is present, it is also possible to tell whether it is malignant or not, which gives us three classes:
